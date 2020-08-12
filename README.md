@@ -1,20 +1,30 @@
 
 # CV Jesús Jávega
-[![JJ](https://s.gravatar.com/avatar/ac005d674a207ed5a0b818a64b24a8de?size=496&default=retro =150x150)](https://github.com/jeiker26)
+[![JJ](https://s.gravatar.com/avatar/ac005d674a207ed5a0b818a64b24a8de?size=150&default=retro)](https://github.com/jeiker26)
 
 ![Build Status](https://travis-ci.org/jeiker26/react-builder-form.svg?branch=master)
-
+![PRs welcome](https://badgen.net/badge/PRs/welcome/green)
+![Front-end](https://badgen.net/badge/Frontend/passing/green)
+![Back-end](https://badgen.net/badge/Backend/in%20progress/blue)
 
 Apasionado de la tecnología y en particular de la programación. Siempre he buscado enfocar mi vida hacía una búsqueda constante de retos y la resolución de problemas. Me di cuenta que una de las cosas que me encanta de la ingeniería de software es que está en continua evolución, lo que supone un aprendizaje constante.
-# <svg text="gray" height="15" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path></svg> Braches
+
+# <svg text="gray" height="15" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path></svg> Branches
 -  **Intelygenz [master]**  *Tech Lead & Software Engineer*
   jul 2019 - actualidad
-  asjdnasdnjkasndjkanj nsjk nkjdnasjkldn kjlasndjka sjkb akjdsakj ndkjasnkd jnaskjd akjkas djksa jkd asjkdakjsdjkajdk sj djk akjsd jkas dj asdj asdkj ajks djkasdjsa jkd ajkdjks:
-	  -	sdmsdm
-	  -	jknjnsdknsd
+  Desarrollo de aplicaciones, así como la gestión de equipo con las siguientes tecnologías: Ionic3 + Angular, NextJS(ReactJS), Redux, Axios, Cypress, Jest, Cucumber, Storybook, git, gitlab, Bulma, tailwindcss y NodeJS. Aplicando las soluciones más idóneas para cada proyecto, teniendo en cuenta tanto la calidad de código como aportar el máximo valor posible al cliente.
 
 - **Sngular [dev/feature/sngular]**   *Senior Frontend Developer*
   mar 2018 - jul 2019
+  Desarrollo de aplicaciones como senior front developer, trabajando para dos grandes clientes:
+  En el primer caso, creamos toda la arquitectura front desde 0 haciendo uso de las siguientes librerías: 
+  - React y redux, como core principal, para la app interna.
+  - NextJS, para la app pública con SEO.
+  - RxJS, para peticiones a back, haciendo uso de épicos y test de Marble.
+  - Sass + Storybooks, para la gestión de la UI, creando nuestro propio *design system*.
+  - Cypress + Cucumber, para los E2E, después de pasar por Selenium + Cucumber.
+  - Jest + Enzyme + React Testing Library, para los test unitarios.
+  En el segundo de los casos:
 
 
 - **Kubide [dev/feature/kubide]**   *Frontend Developer*
