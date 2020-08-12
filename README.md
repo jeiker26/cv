@@ -21,7 +21,7 @@ Caso 1: mantenimiento/evolución de aplicación comida rápida (iOS/Android).
    - Cypress + Cucumber, para los E2E.
    - Mocha + Chai, para los test unitarios.
    
-Caso 2: app para gestión interna de indicencias.
+Caso 2: app para gestión interna de incidencias.
    - NextJS, como core por ser una app muy simple y sin estado.
    - Axios, para la gestión de peticiones http.
    - Sass + tailwindcss, para la creación de la UI.
@@ -32,7 +32,7 @@ Caso 3: creación de app interna para mocks.
    - NodeJS + PollyJS.
    
 Caso 4: plugin para ionic.
-   - Se hace una modificación de un plugin existente, dotandole de una funcionalidad acorde a las necesidades de nuestro cliente. 
+   - Se hace una modificación de un plugin existente, dotándolo de una funcionalidad acorde a las necesidades de nuestro cliente. 
    
 
 ### **Sngular [dev/feature/sngular]**   *Senior Frontend Developer* || mar 2018 - jul 2019
