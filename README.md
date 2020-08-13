@@ -108,6 +108,6 @@ Idiomas:
 | [Medium](https://medium.com/@jesusgraficap) |
 
 
-License
+Licencia
 ----
 MIT
